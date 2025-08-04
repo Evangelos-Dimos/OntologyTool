@@ -7,4 +7,4 @@ Despite that explanations are crucial, there is a current lack of specific tools
 This work tries to address this problem by developing a committed application that gives basic information about the ontologies but also provides explanations for entailments and non-entailments. The application will make ontology reasoning more accessible and transparent. It allows ontology engineers to get justifications for why axioms hold or not in the given ontology. It integrates reasoner plugins like HermiT and Pellet with visualization techniques for better understanding and handling of ontological information.
 
 
-![Ontology Tool Window](Ontology%20Tool.png)
+![Ontology Tool Window](OntologyTool.png)
